@@ -1,5 +1,6 @@
 package com.mmall.util;
 
+import org.springframework.core.io.support.PropertiesLoaderUtils;
 import org.springframework.util.StringUtils;
 
 import java.security.MessageDigest;
